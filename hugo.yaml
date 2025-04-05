@@ -48,8 +48,8 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: true
-    displayPoweredBy: false
+    displayCopyright: false
+    displayPoweredBy: true
 
   editURL:
     enable: true
